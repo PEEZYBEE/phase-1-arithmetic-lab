@@ -13,4 +13,4 @@ const num4 = 6;
 const mod = num3 % num4; 
 
 
-const max = Math.max(5, 10, 15, 20, ); 
+const max = Math.max(5, 10, 15, 20, 25); 
